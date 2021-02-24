@@ -43,5 +43,8 @@ Saludos!
 python3 magic.py 20
 
 # para ejecutar test
+## primero instalar requirements
+pip install -r requirements
+##despues ejecutar el comando 
 pytest
 
